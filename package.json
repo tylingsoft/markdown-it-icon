@@ -3,5 +3,11 @@
   "version": "0.0.1",
   "description": "Icon plugin for markdown-it markdown parser.",
   "repository": "tylingsoft/markdown-it-icon",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+	  "index.js",
+	  "lib/",
+	  "dist/"
+  ]
 }
