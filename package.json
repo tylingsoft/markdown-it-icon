@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-icon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Icon plugin for markdown-it markdown parser.",
   "repository": "tylingsoft/markdown-it-icon",
   "license": "MIT",
