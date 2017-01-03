@@ -3,6 +3,9 @@
 Emoji icons, Font awesome icons and Ionicons icons for markdown-it.
 
 
+## Deprecated in favor of [markdown-it-icons](https://github.com/tylingsoft/markdown-it-icons)
+
+
 ## Install
 
 `npm install markdown-it-icon --save`
